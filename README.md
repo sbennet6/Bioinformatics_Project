@@ -1,1 +1,1 @@
-# Bioinformatic_Project
+# Bioinformatics_Project
